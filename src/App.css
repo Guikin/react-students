@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  background-color: rgb(90, 90, 90);
+  height: 100vh;
+  color: white;
+}
+
+.students{
+  width: 50%;
+  margin:auto;
+  margin-top:4rem;
+}
+table{
+  width: 100%;
+  border: 1px white solid;
+  ;
+}
+td{
+  border:1px white solid ;
+  font-size: 1.5rem;
+}
